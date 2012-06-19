@@ -35,6 +35,7 @@ Maintainers (CyanogenMod 9):
 * Samsung Vibrant (SGH-T959): FaultException
 * Sony Xperia Arc (LT15i): Bin4ry,defer,jerpelea (FreeXperia team)
 * Sony Xperia Neo (MT15i): Bin4ry,defer,jerpelea (FreeXperia team)
+* Huawei U8500 (Ideos X2): AnsonKlavs
 
 Translators:
 ------------
